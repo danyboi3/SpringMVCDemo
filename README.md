@@ -1,3 +1,3 @@
 # SpringMVCDemo
-Used Spring Framework
+Used Spring Framework.
 Look into .doc file for instructions
